@@ -29,6 +29,20 @@ export const game_projects = [
       description: "Sci-fi horror game submitted for the Alberta Game Jam 2023",
       image: "./specimenx.gif",
       link: "https://ralworks.itch.io/specimenx",
+    },
+    {
+      title: "Dodgy the Dodgeball Faces Criminal Charges",
+      subtitle: "Composer, gameplay rogrammer",
+      description: "A comical action game made during a 48-hour game jam",
+      image: "./dodgy.gif",
+      link: "https://haleyjpeg.itch.io/dodgy-the-dodgeball-faces-criminal-charges"
+    },
+    {
+      title: "Safety Safari",
+      subtitle: "Gameplay programmer, sound designer",
+      description: "An educational game made to teach K-6 children about personal safety",
+      image: "./zebra.gif",
+      link: "https://gerrinator.itch.io/safety-safari"
     }
   ];
 
